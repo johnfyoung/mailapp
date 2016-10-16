@@ -4,3 +4,14 @@
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
+sessions/
+node_modules/
+tmp/
+vendor/
+cli
+ci_instance.php
+bin/
+_old/
+deploy/
+composer.lock
+config/
