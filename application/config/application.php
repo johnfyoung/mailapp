@@ -80,7 +80,7 @@ $config['database_schema'] = array(
 			'data' => array(
 				array(
 					'username' => 'admin',
-					'password' => '$2a$10$0A1/gur1RhZELJnGsPOGmOU/Fo/yUdgHE.QWqwJGvUrYZ6Kcgs3TG',
+					'password' => '<PUT A PASSWORD HERE>',
 					'email_address' => 'john@codeandcreative.com',
 					'first_name' => 'Default',
 					'last_name' => 'Administrator',
