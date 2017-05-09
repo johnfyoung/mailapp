@@ -366,7 +366,7 @@ $config['mailservices'] = array(
 		'id'	=> 'mailchimp',
 		'name'	=> 'Mailchimp',
 		'api_version' => '3.0',
-		'api_key' => 'cb71037da5b1c833eade7d309e951f11-us4',
+		'api_key' => '<YOUR MAILCHIMP API KEY HERE>',
 		'request_lifetime' => 86400
 	)
 );
